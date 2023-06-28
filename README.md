@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Atef Hussain</h1>
-<h3 align="center">A systems and biomedical engineering student.</h3>
+<h3 align="center">An engineering student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bodykudo&label=Profile%20views&color=0e75b6&style=flat" alt="OmarAtef0" /> </p>
 
