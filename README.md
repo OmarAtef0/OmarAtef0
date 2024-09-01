@@ -16,7 +16,7 @@
 
 <br>
 
-### 📧 Connect with Me:
+### Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omaratefhussain/)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat&logo=gmail&logoColor=white)](omaratef03@gmail.com@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%230077B5.svg?logo=whatsapp&logoColor=white)](https://wa.me/201142597665) 
@@ -51,9 +51,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=ffffff)
 ![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=flat&logo=styled-components&logoColor=ffffff)
 ![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat&logo=material-ui&logoColor=ffffff)
-![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat&logo=framer&logoColor=ffffff)
 ![Context API](https://img.shields.io/badge/-Context_API-61DAFB?style=flat&logo=react&logoColor=ffffff)
-![Hooks](https://img.shields.io/badge/-Hooks-61DAFB?style=flat&logo=react&logoColor=ffffff)
 ![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=flat&logo=react-router&logoColor=ffffff)
 
 #### Backend
@@ -61,7 +59,6 @@
 ![Flask](https://img.shields.io/badge/Flask-%23404d59.svg?style=flat&logo=Flask&logoColor=%2361DAFB)
 ![REST API](https://img.shields.io/badge/-REST_API-009688?style=flat&logo=rest&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=ffffff)
 
 #### Tools & Platforms
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=ffffff)
