@@ -1,13 +1,13 @@
 <div align="center">
 
-## Hey, it's Omar Atef Hussain!
+## Hey, it's Omar Shata!
 
 </div>
 <div align="center">
 <img align="center" alt="Coding" width="400" src="Code.gif"/>
 </div>
 
-<h4 align="center">A third year Biomedical Engineering student who is looking for a challenging position that will effectively build my experience</h4>
+<h4 align="center">A Biomedical Engineering student seeking a challenging position that will effectively build my experience.</h4>
 
 <div align="center" >
 <p > <img src="https://komarev.com/ghpvc/?username=bodykudo&label=Profile%20views&color=0e75b6&style=flat" alt="OmarAtef0" /> </p>
